@@ -53,7 +53,6 @@ public class player  : MonoBehaviour
             sr.flipX=true;
         }else{
             anim.SetBool(WALK_ANIMATION,false);
-
         }
     }
     void playerJump(){
