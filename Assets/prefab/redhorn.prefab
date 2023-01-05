@@ -14,9 +14,9 @@ GameObject:
   - component: {fileID: 6953056488006425775}
   - component: {fileID: 8657553736560281230}
   - component: {fileID: 1165728518033354601}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: redhorn
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
