@@ -20,6 +20,7 @@ public class player  : MonoBehaviour
     {
         mybody= GetComponent<Rigidbody2D>();
         anim =GetComponent<Animator>();
+        // any updates  are done
         sr =GetComponent<SpriteRenderer>();
     }
     // Start is called before the first frame update
